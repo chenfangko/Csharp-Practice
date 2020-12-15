@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{DF48CB12-1143-4B8E-825A-06541CFA1938}|Default">
+  <MonoDevelop.Ide.ItemProperties.Homework__Fangko PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Homework_Fangko/Frm04_Student.cs">
+    <Files>
+      <File FileName="Homework_Fangko/Frm_Main.cs" Line="1" Column="1" />
+      <File FileName="Homework_Fangko/Frm01_Hello.cs" Line="1" Column="1" />
+      <File FileName="Homework_Fangko/Frm02_Loan.cs" Line="1" Column="1" />
+      <File FileName="Homework_Fangko/Frm03_Menu.cs" Line="1" Column="1" />
+      <File FileName="Homework_Fangko/Frm04_Student.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Homework_Fangko" expanded="True">
+            <Node name="Homework_Fangko" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
